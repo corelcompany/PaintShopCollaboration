@@ -1,4 +1,4 @@
-# PaintShop Pro ® 2022 version 3.8 | Promotion version
+# PaintShop Pro ® 2023 | Promotion version
 -------------
 ![alt-текст](https://i.imgur.com/bTK1CDS.png)
 
@@ -52,4 +52,4 @@ Reduce repetition and accelerate complex photo-editing actions with Scripts. Rec
    ...
 </details></div>
 
-Read more: [www.paintshoppro.com](https://topazlabs.com/studio/)
+Read more: [www.paintshoppro.com](https://www.paintshoppro.com)
