@@ -4,7 +4,7 @@
 
 ### Photo editing software
 
-#### Your digital world is always brighter with PaintShop Pro 2022
+#### Your digital world is always brighter with PaintShop Pro 2023
 
 # Closed version for promoters
 ### 💻 Only for Windows 7/8/8.1/10
